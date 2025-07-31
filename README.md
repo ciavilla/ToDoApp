@@ -11,6 +11,25 @@ A full-stack todo application built with Express.js, Prisma, MySQL, and Next.js.
 - 🚀 REST API with TypeScript
 - 🗄️ MySQL database with Prisma ORM
 
+## Screenshots
+
+### Main Dashboard
+![Main](screenshots/TaskList.png)
+*Main todo list view showing tasks with different colors and completion status*
+
+### Empty State
+![Empty State](screenshots/EmptyState.png)
+*Clean empty state when no tasks are created*
+
+### Create Task
+![Create Task](screenshots/CreateTask.png)
+*Task creation form with title input and color selection*
+
+### Edit Task
+![Edit Task](screenshots/EditTask.png)
+*Task editing interface with pre-filled values*
+
+
 ## Tech Stack
 
 **Backend:**

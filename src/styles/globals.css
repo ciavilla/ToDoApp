@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-task-red: #FF3B30;
+  --color-task-orange: #FF9500;
+  --color-task-yellow: #FFCC00;
+  --color-task-green: #34C759;
+  --color-task-blue: #007AFF;
+  --color-task-indigo: #5856D6;
+  --color-task-purple: #AF52DE;
+  --color-task-pink: #FF2D55;
+  --color-task-brown: #A2845E;
+
+  --font-family-inter: Inter, sans-serif;
+}
+
+body {
+  background-color: #1a1a1a;
+  color: #f2f2f2;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
